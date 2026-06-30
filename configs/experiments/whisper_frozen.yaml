@@ -1,0 +1,5 @@
+experiment_name: "whisper_frozen"
+model_config: "whisper"
+approach: "frozen"
+output_dir: "runs/whisper_frozen"
+learning_rate: 5.0e-5

@@ -1,0 +1,19 @@
+segment_id,audio_path,start_time,end_time,normalized_text,alignment_confidence,agreement_score,verdict
+segment_0011,data/segments/audio/segment_0011.wav,90.56,96.95,hər hansı bir müəssisəyə bir direktor təyin olunur və o öz dost tanışını qohum əqrabasını,-0.3698542912331491,0.5714285714285714,OK
+segment_0003,data/segments/audio/segment_0003.wav,29.270000000000003,36.93,bir neçə halı nəzərdə tutulmuşdur yəni bir neçə əsasla əmək müqaviləsinə xitam verilir bunlardan ən çox tətbiq olunanı da,-0.3332508431242816,0.4761904761904761,OK
+segment_0033,data/segments/audio/segment_0033.wav,263.02,268.75,belə deyək ərizəsini yazır və ya işəgötürən razıdırsa bu bir ay daha qısa,-0.2752082724817175,0.7857142857142857,OK
+segment_0012,data/segments/audio/segment_0012.wav,98.42,106.77,işə götürmək istəyir onları da işə götürmək üçün mövcud işçiləri işdən çıxarmaq lazımdır,-0.3678920498447884,0.4,Problem
+segment_0043,data/segments/audio/segment_0043.wav,346.98,352.41,işçidən bəzi məsələləri sübuta yetirmək lazımdır ki hansı ki,-0.282649311639372,0.2222222222222222,OK
+segment_0039,data/segments/audio/segment_0039.wav,311.3,321.11,bu hüququ bizə hansı maddə verir əmək məcəlləsinin 69 cu maddəsinin 7 ci bəndinə əsasən işəgötürən tərəfindən,-0.3791663178538348,0.6875,OK
+segment_0054,data/segments/audio/segment_0054.wav,435.14,443.17,onun hüquqlarının yerdə qalacağı mənasına gəlmir bu kimi hallarda bəzən,-0.2166415182699026,0.3076923076923077,OK
+segment_0052,data/segments/audio/segment_0052.wav,420.4,428.39,bu faktların mövcud olduğunu görərsə onun işə bərpa olunması barədə qərar çıxaracaq yox əgər,-0.2070654982219753,0.6923076923076923,OK
+segment_0082,data/segments/audio/segment_0082.wav,667.86,673.71,və bu belə deyək artıq yəni,-0.1377131703291646,0.8333333333333334,Problem
+segment_0051,data/segments/audio/segment_0051.wav,409.92,419.65,o özünə qarşı olan psixoloji təzyiqi məhkəmədə sübuta yetirə bilər və əgər məhkəmə həqiqətən də,-0.2101817354308276,0.4705882352941176,Problem
+segment_0075,data/segments/audio/segment_0075.wav,603.6,610.97,əslində o bir aylıq xəbərdarlıq müddəti yəni 69 cu maddənin birinci hissəsindəki o bir aylıq xəbərdarlıq müddəti,-0.2612081728431393,0.4117647058823529,OK
+segment_0046,data/segments/audio/segment_0046.wav,371.0,379.55,iş yoldaşları görübsə onlar gəlib məhkəmədə şahid kimi ifadə verə bilərlər və ya işəgötürən tərəfindən işçiyə,-0.2458402257619597,0.2222222222222222,OK
+segment_0088,data/segments/audio/segment_0088.wav,714.52,721.75,gəlir qaynağı yoxdur və belə bir adamın ərizə yazması və,-0.1758076616228001,0.7777777777777778,OK
+segment_0092,data/segments/audio/segment_0092.wav,741.78,748.55,iddia ərizəsində ona olan təzyiqləri göstərir amma bəzən sübutlar olmur,-0.1955186380297272,0.125,OK
+segment_0104,data/segments/audio/segment_0104.wav,830.32,837.39,işçinin təqsirli hərəkəti ilə müəssisəyə ziyan vurması və ya digər işçilərə,-0.1862732695052648,0.6363636363636364,OK
+segment_0105,data/segments/audio/segment_0105.wav,837.82,846.19,ziyan vurması işçinin müəssisənin kommersiya sirrini yayması yəni bu kimi məsələlər orada tənzimlənir və,-0.198569120390069,0.3333333333333333,OK
+segment_0107,data/segments/audio/segment_0107.wav,856.0,862.21,təəssüf ki belə şəxslərin iş tapması,-0.1926848436114914,0.4,OK
+segment_0110,data/segments/audio/segment_0110.wav,883.9200000000001,893.23,karyeralarının qarşısında olan əngəllər aradan qalxsın işəgötürən ərizəsini yazmayan işçini 70 ci maddənin ç bəndi ilə işdən çıxararkən,-0.3628553830581441,0.3888888888888888,Problem

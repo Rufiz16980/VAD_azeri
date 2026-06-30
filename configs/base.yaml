@@ -1,0 +1,4 @@
+project_root: "/content/drive/MyDrive/VAD"
+seed: 42
+sample_rate: 16000
+video_url: "https://www.youtube.com/watch?v=LPre3ILXY1k"

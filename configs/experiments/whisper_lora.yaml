@@ -1,0 +1,5 @@
+experiment_name: "whisper_lora"
+model_config: "whisper"
+approach: "lora"
+output_dir: "runs/whisper_lora"
+learning_rate: 2.0e-4

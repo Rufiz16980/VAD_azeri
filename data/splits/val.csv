@@ -1,0 +1,12 @@
+segment_id,start_time,end_time,duration,normalized_text,alignment_confidence,audio_path,agreement_score,split
+segment_0006,53.480000000000004,61.49,8.009999999999998,ərizə yazaraq əmək müqavilələrinə xitam verə bilərlər bu praktikada ən çox tətbiq olunan haldır ancaq təəssüf ki,-0.28574299228628175,data/segments/audio/segment_0006.wav,0.4,val
+segment_0039,311.3,321.11,9.810000000000002,bu hüququ bizə hansı maddə verir əmək məcəlləsinin 69 cu maddəsinin 7 ci bəndinə əsasən işəgötürən tərəfindən,-0.3791663178538348,data/segments/audio/segment_0039.wav,0.6875,val
+segment_0043,346.98,352.41,5.430000000000007,işçidən bəzi məsələləri sübuta yetirmək lazımdır ki hansı ki,-0.28264931163937207,data/segments/audio/segment_0043.wav,0.2222222222222222,val
+segment_0051,409.92,419.65,9.729999999999961,o özünə qarşı olan psixoloji təzyiqi məhkəmədə sübuta yetirə bilər və əgər məhkəmə həqiqətən də,-0.21018173543082763,data/segments/audio/segment_0051.wav,0.47058823529411764,val
+segment_0052,420.40000000000003,428.39,7.989999999999952,bu faktların mövcud olduğunu görərsə onun işə bərpa olunması barədə qərar çıxaracaq yox əgər,-0.20706549822197534,data/segments/audio/segment_0052.wav,0.6923076923076923,val
+segment_0085,691.34,696.6700000000001,5.330000000000041,sübut yoxdur ki sübuta yetirsin ki mənə təzyiq olunub və,-0.34471389496403704,data/segments/audio/segment_0085.wav,0.125,val
+segment_0059,477.84000000000003,483.87,6.029999999999973,bəs məni işdən çıxarmaq istəyirlər xahiş eləyirəm buna əngəl olasınız,-0.19829251028425002,data/segments/audio/segment_0059.wav,0.19999999999999996,val
+segment_0095,763.12,772.89,9.769999999999982,axıra qədər dedi ki mən ərizəmi yazmayacağam və o 70 ci maddənin ç bəndi ilə işdən çıxarıldı belə olan halda,-0.3685249498290604,data/segments/audio/segment_0095.wav,0.23529411764705888,val
+segment_0112,901.54,909.4300000000001,7.8900000000001,əmrdə bunu əsaslandırmaq lazımdır yəni əmək məcəlləsinə görə də 70 ci maddə ilə ümumiyyətlə,-0.2443001923927632,data/segments/audio/segment_0112.wav,0.4666666666666667,val
+segment_0093,749.6800000000001,755.15,5.469999999999914,o baxımdan məhkəmələrin yəni hakimlərin daxili inamı da burada,-0.2171952735995536,data/segments/audio/segment_0093.wav,0.375,val
+segment_0114,920.0,929.87,9.870000000000005,belə olan halda işəgötürənlər müxtəlif absurd əsaslandırmalara üz tuturlar yəni praktikada da çox qarşılaşdığımız məsələlər var məsələn,-0.29480571758160534,data/segments/audio/segment_0114.wav,0.8,val

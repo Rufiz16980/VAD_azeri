@@ -1,0 +1,9 @@
+segment_min_duration_sec: 3
+segment_target_duration_sec: [5, 10]
+segment_max_duration_sec: 12
+alignment_confidence_drop_percentile: 10
+cross_model_agreement_drop_percentile: 10
+qa_sample_size: 18
+qa_sample_strata: 3            # early / middle / late thirds of the video
+qa_problem_rate_retune_threshold: 0.25
+split_ratios: [0.8, 0.1, 0.1]  # train, val, test

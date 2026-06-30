@@ -1,0 +1,14 @@
+model_id: "facebook/mms-1b-all"
+lora:
+  r: 8
+  alpha: 16
+  dropout: 0.05
+  target_modules: ["q_proj", "v_proj"]
+regularization:
+  mask_time_prob: 0.05
+  mask_feature_prob: 0.05
+training:
+  per_device_train_batch_size: 4
+  per_device_eval_batch_size: 4
+  gradient_accumulation_steps: 4
+  gradient_checkpointing: true

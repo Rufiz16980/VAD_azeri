@@ -1,0 +1,16 @@
+model_id: "openai/whisper-small"
+lora:
+  r: 8
+  alpha: 16
+  dropout: 0.05
+  target_modules: ["q_proj", "v_proj"]
+spec_augment:
+  freq_mask_max_width: 10
+  time_mask_max_width: 20
+  num_freq_masks: 2
+  num_time_masks: 2
+training:
+  per_device_train_batch_size: 8
+  per_device_eval_batch_size: 8
+  gradient_accumulation_steps: 2
+  gradient_checkpointing: false

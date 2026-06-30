@@ -1,0 +1,15 @@
+transformers
+datasets
+accelerate
+peft
+jiwer
+mlflow
+ctc-segmentation
+yt-dlp
+soundfile
+librosa
+pandas
+matplotlib
+pyyaml
+evaluate
+cryptography>=49.0.0

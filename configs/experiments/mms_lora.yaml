@@ -1,0 +1,5 @@
+experiment_name: "mms_lora"
+model_config: "mms"
+approach: "lora"
+output_dir: "runs/mms_lora"
+learning_rate: 2.0e-4

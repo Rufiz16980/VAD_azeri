@@ -1,0 +1,5 @@
+experiment_name: "mms_frozen"
+model_config: "mms"
+approach: "frozen"
+output_dir: "runs/mms_frozen"
+learning_rate: 5.0e-5

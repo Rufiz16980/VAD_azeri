@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS files
+.DS_Store
+
+# Jupyter / Google Colab checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+
+# Large audio/video datasets
+data/raw/
+data/segments/
+data/processed/
+
+# Keep split manifests (train.csv, val.csv, test.csv)
+!data/splits/
+
+# Ignore heavy training checkpoints and MLflow tracking data
+runs/**/checkpoints/
+runs/**/mlruns/
+runs/**/run_id.txt
+
+# Temporary folders
+temp_eval/
+tmp/
+.tmp/
+
+# Archive folder
+archive/
